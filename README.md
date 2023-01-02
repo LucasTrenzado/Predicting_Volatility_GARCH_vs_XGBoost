@@ -24,3 +24,6 @@ The Generalized Autoregressive Conditional Heteroscedasticity (GARCH) model is a
 
 
 The Extreme Gradient Boosting (XGBoost) model is a powerful machine learning algorithm used for classification and regression tasks. It is an implementation of gradient boosting that is optimized for speed and performance. XGBoost is a popular choice among data scientists because it provides a high level of accuracy while also being efficient and easy to use. It works by creating a series of decision trees and combining their predictions through an ensemble model. The algorithm can handle a variety of data types, including numerical, categorical, and missing values.
+
+## Notebook
+https://github.com/LucasTrenzado/Predicting_Volatility_GARCH_vs_XGBoost/blob/main/Predicting_Volatility_GARCH_vs_XGBoost.ipynb
