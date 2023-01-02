@@ -16,7 +16,9 @@ Test period for forecasting (The model has never seen this data): 2021-10-28 to 
 Predictions are done on a rolling basis, predicting monthly (22 trading days) volatility day by day
 <br/><br/>
 
-Tools: The Generalized Autoregressive Conditional Heteroscedasticity (GARCH) model is a statistical model used to describe the time-varying variance of financial time series data. It is commonly used to model the volatility of financial returns, and can be used to make predictions about future volatility, in this case we use the one from the "arch" module.
+## Tools
+
+The Generalized Autoregressive Conditional Heteroscedasticity (GARCH) model is a statistical model used to describe the time-varying variance of financial time series data. It is commonly used to model the volatility of financial returns, and can be used to make predictions about future volatility, in this case we use the one from the "arch" module.
 <br/><br/>
 
 
